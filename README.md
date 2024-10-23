@@ -26,7 +26,7 @@ Develop a Quiz Application.
    - Allow users to navigate back and forth between questions and change already selected answers.
    - Prevent editing of answers once the quiz is submitted.
 
-7. **Optional Features**
+   **Optional Features**
    - Persist the user's progress using local storage, allowing them to resume where they left off after a page refresh.
    - Display the results in a chart or graph.
 
