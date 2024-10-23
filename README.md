@@ -73,4 +73,4 @@ Development Timeline (3 days):
 3. After completing the task, raise a **Pull Request (PR)** to the project's **main branch**.
 
 If you face any issues, feel free to contact us at:  
-**Email:** ajayaj7397@gmail.com
+**Email:** pikvitadev@gmail.com
