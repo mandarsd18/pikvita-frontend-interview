@@ -1,4 +1,4 @@
-Problem Statement
+## Problem Statement
 
 Create a Quiz application.
 
@@ -65,3 +65,12 @@ Technical Implementation:
 -   Tailwind CSS: A utility-first CSS framework for styling the application's components.
 
 Development Timeline (3 days):
+
+## Task Instructions
+
+1. **Fork** the repository.
+2. Work on the **interview task** in your forked repository.
+3. After completing the task, raise a **Pull Request (PR)** to the project's **main branch**.
+
+If you face any issues, feel free to contact us at:  
+**Email:** ajayaj7397@gmail.com
