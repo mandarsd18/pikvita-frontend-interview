@@ -46,7 +46,8 @@ Develop a Quiz Application.
 
 1. **Fork** the repository.
 2. Work on the **interview task** in your forked repository.
-3. After completing the task, raise a **Pull Request (PR)** to the project's **main branch**.
+3. Make regular commits of your work, your commit structure will also be reviewed. 
+4. After completing the task, raise a **Pull Request (PR)** to the project's **main branch**.
 
 ### Contact
 
