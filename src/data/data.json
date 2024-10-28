@@ -1,0 +1,322 @@
+[
+    {
+    "id": 986,
+    "question": "How to insert a comment that has more than one line?",
+    "description": null,
+    "answers": {
+    "answer_a": "/*This comment has more than one line*/",
+    "answer_b": "<!--This comment has more than one line-->",
+    "answer_c": "//This comment has more than one line//",
+    "answer_d": null,
+    "answer_e": null,
+    "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+    "answer_a_correct": "true",
+    "answer_b_correct": "false",
+    "answer_c_correct": "false",
+    "answer_d_correct": "false",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [
+    {
+    "name": "JavaScript"
+    }
+    ],
+    "category": "Code",
+    "difficulty": "Easy"
+    },
+    {
+    "id": 996,
+    "question": "What will the following code return: Boolean(10 > 9)",
+    "description": null,
+    "answers": {
+    "answer_a": "true",
+    "answer_b": "NaN",
+    "answer_c": "false",
+    "answer_d": null,
+    "answer_e": null,
+    "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+    "answer_a_correct": "true",
+    "answer_b_correct": "false",
+    "answer_c_correct": "false",
+    "answer_d_correct": "false",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [
+    {
+    "name": "JavaScript"
+    }
+    ],
+    "category": "Code",
+    "difficulty": "Easy"
+    },
+    {
+    "id": 980,
+    "question": "How do you call a function named \"myFunction\"?",
+    "description": null,
+    "answers": {
+    "answer_a": "myFunction()",
+    "answer_b": "call myFunction()",
+    "answer_c": "call function myFunction()",
+    "answer_d": null,
+    "answer_e": null,
+    "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+    "answer_a_correct": "true",
+    "answer_b_correct": "false",
+    "answer_c_correct": "false",
+    "answer_d_correct": "false",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [
+    {
+    "name": "JavaScript"
+    }
+    ],
+    "category": "Code",
+    "difficulty": "Easy"
+    },
+    {
+    "id": 990,
+    "question": "What is the correct JavaScript syntax for opening a new window called \"w2\" ?",
+    "description": null,
+    "answers": {
+    "answer_a": "w2 = window.new(\"http://www.w3schools.com\");",
+    "answer_b": "w2 = window.open(\"http://www.w3schools.com\");",
+    "answer_c": null,
+    "answer_d": null,
+    "answer_e": null,
+    "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+    "answer_a_correct": "false",
+    "answer_b_correct": "true",
+    "answer_c_correct": "false",
+    "answer_d_correct": "false",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [
+    {
+    "name": "JavaScript"
+    }
+    ],
+    "category": "Code",
+    "difficulty": "Easy"
+    },
+    {
+    "id": 976,
+    "question": "What is the correct syntax for referring to an external script called \"xxx.js\"?",
+    "description": null,
+    "answers": {
+    "answer_a": "<script name=\"xxx.js\">",
+    "answer_b": "<script src=\"xxx.js\">",
+    "answer_c": "<script href=\"xxx.js\">",
+    "answer_d": "<script declare=\"xxx.js\">",
+    "answer_e": null,
+    "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+    "answer_a_correct": "false",
+    "answer_b_correct": "true",
+    "answer_c_correct": "false",
+    "answer_d_correct": "false",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [
+    {
+    "name": "JavaScript"
+    }
+    ],
+    "category": "Code",
+    "difficulty": "Easy"
+    },
+    {
+    "id": 975,
+    "question": "Where is the correct place to insert a JavaScript?",
+    "description": null,
+    "answers": {
+    "answer_a": "The <head> section",
+    "answer_b": "The <body> section",
+    "answer_c": "The <footer>",
+    "answer_d": "Both the <head> section and the <body> section are correct",
+    "answer_e": null,
+    "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+    "answer_a_correct": "false",
+    "answer_b_correct": "false",
+    "answer_c_correct": "false",
+    "answer_d_correct": "true",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [
+    {
+    "name": "JavaScript"
+    }
+    ],
+    "category": "Code",
+    "difficulty": "Easy"
+    },
+    {
+    "id": 977,
+    "question": "The external JavaScript file must contain the <script> tag.",
+    "description": null,
+    "answers": {
+    "answer_a": "True",
+    "answer_b": "False",
+    "answer_c": null,
+    "answer_d": null,
+    "answer_e": null,
+    "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+    "answer_a_correct": "false",
+    "answer_b_correct": "true",
+    "answer_c_correct": "false",
+    "answer_d_correct": "false",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [
+    {
+    "name": "JavaScript"
+    }
+    ],
+    "category": "Code",
+    "difficulty": "Easy"
+    },
+    {
+    "id": 993,
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "description": null,
+    "answers": {
+    "answer_a": "onchange",
+    "answer_b": "onmouseclick",
+    "answer_c": "onmouseover",
+    "answer_d": "onclick",
+    "answer_e": null,
+    "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+    "answer_a_correct": "false",
+    "answer_b_correct": "false",
+    "answer_c_correct": "false",
+    "answer_d_correct": "true",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [
+    {
+    "name": "JavaScript"
+    }
+    ],
+    "category": "Code",
+    "difficulty": "Easy"
+    },
+    {
+    "id": 979,
+    "question": "How do you create a function in JavaScript?",
+    "description": null,
+    "answers": {
+    "answer_a": "function myFunction()",
+    "answer_b": "function:myFunction()",
+    "answer_c": "function = myFunction()",
+    "answer_d": null,
+    "answer_e": null,
+    "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+    "answer_a_correct": "true",
+    "answer_b_correct": "false",
+    "answer_c_correct": "false",
+    "answer_d_correct": "false",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [
+    {
+    "name": "JavaScript"
+    }
+    ],
+    "category": "Code",
+    "difficulty": "Easy"
+    },
+    {
+    "id": 974,
+    "question": "What is the correct JavaScript syntax to change the content of the HTML element below?",
+    "description": null,
+    "answers": {
+    "answer_a": "#demo.innerHTML = \"Hello World!\";",
+    "answer_b": "document.getElementById(\"demo\").innerHTML = \"Hello World!\";",
+    "answer_c": "document.getElement(\"p\").innerHTML = \"Hello World!\";",
+    "answer_d": "document.getElementByName(\"p\").innerHTML = \"Hello World!\";",
+    "answer_e": null,
+    "answer_f": null
+    },
+    "multiple_correct_answers": "false",
+    "correct_answers": {
+    "answer_a_correct": "false",
+    "answer_b_correct": "true",
+    "answer_c_correct": "false",
+    "answer_d_correct": "false",
+    "answer_e_correct": "false",
+    "answer_f_correct": "false"
+    },
+    "correct_answer": "answer_a",
+    "explanation": null,
+    "tip": null,
+    "tags": [
+    {
+    "name": "JavaScript"
+    }
+    ],
+    "category": "Code",
+    "difficulty": "Easy"
+    }
+    ]

@@ -1,8 +1,17 @@
-import { RouterProvider } from 'react-router-dom'
-import Router from './router/Router'
+import data from "./data/data.json"
+import { useEffect } from "react"
+import Home from "./pages/Home";
 
 const App = () => {
-  return <RouterProvider router={Router} />
+
+  useEffect(()=>{
+    
+    console.log(data);
+    
+  },[])
+  return <>
+ <Home/>
+  </>
 }
 
 export default App
